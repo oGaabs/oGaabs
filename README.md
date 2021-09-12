@@ -3,8 +3,7 @@
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/PuniGC?label=Follow&style=social" height="22" title="Follow me"/>][github]
 [<img alt="Mail to Gabriel" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="gabriel04.ok@gmail.com" />][email]
 [<img alt="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />][linkedin]
-[<img alt="Telegram Profile" src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />][telegram]  
-[<img alt="Discord Profile" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=dsc.bio/punidc" height="22" />][discord]  
+[<img alt="Telegram Profile" src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />][telegram]  [<img alt="Discord Profile" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=dsc.bio/punidc" height="22" />][discord]  
 
 ## A Student, Developer and a great lover of IT and E-sports
 
@@ -72,13 +71,8 @@ and aspiring to become a Full Stack Developer.</em>
 #### NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
 <a href="https://github.com/PuniGC">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact" />
-</a>
-
-<a href="https://github.com/PuniGC">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=highcontrast" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=highcontrast&layout=compact" />
+<img height="180em" width="381.81" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&theme=highcontrast&layout=compact" />
 </a>
 
 ---
