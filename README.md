@@ -7,15 +7,15 @@
 
 ## A Student, Developer and a great lover of IT and E-sports
 
-<em> I’m studying the 1st year of Systems Development Technician, at Unicamp Technical College of Campinas – COTUCA
+<em> I’m studying the 1st year of Systems Development Technician, at Unicamp Technical High School of Campinas – COTUCA
 and aspiring to become a Full Stack Developer.</em>
 
 ---
 
-* 💻 I’m currently learning **SQL, Java, JavaScript and Unity.**
+* 💻 I’m currently learning **SQL, Java, JavaScript, and Unity.**
 * 💼 looking for **internship** in the RMC (Região Metropolitana de Campinas) or Home office
-* 📌 any **freelance work**? contact me, **[email]** :)
-* 💬 **ask me about anything**, I'm happy to help or get suggestions
+* 📌 any **freelance work**? Contact me, **[email]** :)
+* 💬 **ask me about anything**, I'm happy to help or get suggestions.
 
 ---
 
