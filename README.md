@@ -82,7 +82,7 @@ and aspiring to become a Full Stack Developer.</em>
 [linkedin]: https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/
 [email]: mailto:gabriel04.ok@gmail.com
 [telegram]: https://t.me/GabrielSantanaSilva
-[discord]: dsc.bio/punidc
+[discord]: https://discords.com/bio/p/punidc
 [webplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
