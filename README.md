@@ -7,7 +7,7 @@
 
 ## A Student, Developer and a great lover of IT and E-sports
 
-<em> I’m studying the 1st year of Systems Development Technician, at Unicamp Technical High School of Campinas – COTUCA
+<em> I’m studying the 2st year of Systems Development Technician, at Unicamp Technical High School of Campinas – COTUCA
 and aspiring to become a Full Stack Developer.</em>
 
 ---
