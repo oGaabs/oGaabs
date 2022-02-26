@@ -72,11 +72,11 @@ and aspiring to become a Full Stack Developer.</em>
 
 | [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
 | :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=highcontrast" /> | <img height="180" width="500"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&theme=highcontrast&layout=compact" /> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=highcontrast" /> | <img height="180" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&theme=highcontrast&layout=compact" /> |
 
 | [⚡️ Github Profile Streaks](https://github.com/DenverCoder1/github-readme-streak-stats#github-readme-streak-stats) | [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#github-profile-trophy)
 | :---: | :---: |
-| <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=PuniGC&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=DD0000&currStreakNum=DDC900&fire=DD0000&currStreakLabel=DDC900&sideLabels=00DDD6" /> | <img height="180" width="500" src="https://github-profile-trophy.vercel.app/?username=PuniGC&theme=juicyfresh&row=2&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" /> |
+| <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=PuniGC&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=DD0000&currStreakNum=DDC900&fire=DD0000&currStreakLabel=DDC900&sideLabels=00DDD6" /> | <img height="180" width="480" src="https://github-profile-trophy.vercel.app/?username=PuniGC&theme=juicyfresh&row=2&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" /> |
 
 ---
 
