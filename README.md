@@ -3,7 +3,7 @@
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/PuniGC?label=Follow&style=social" height="22" title="Follow me"/>][github]
 [<img alt="Mail to Gabriel" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="gabriel04.ok@gmail.com" />][email]
 [<img alt="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />][linkedin]
-[<img alt="Telegram Profile" src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />][telegram]  [<img alt="Discord Profile" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=dsc.bio/punidc" height="22" />][discord]  
+[<img alt="Telegram Profile" src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />][telegram]  [<img alt="Discord Profile" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=dsc.bio/punidc" height="22" />][discord]
 
 ## A Student, Developer and a great lover of IT and E-sports
 
@@ -22,7 +22,7 @@ and aspiring to become a Full Stack Developer.</em>
 ## Programming Languages and Tools 🚀
 
 [<code>
-<img alt="Unity" width="40px" src="https://img.icons8.com/ios-filled/50/000000/unity.png">
+<img alt="unity" width="40px" src="https://img.icons8.com/ios-filled/50/000000/unity.png">
 </code>](https://unity.com/pt)
 [<code>
 <img alt="github" width="40px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
@@ -51,7 +51,7 @@ and aspiring to become a Full Stack Developer.</em>
 <img alt="python" width="40px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
-<img alt="csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">
+<img alt="csharp" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </code>](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 [<code>
 <img alt="windows" width="40px" src="https://img.icons8.com/color/240/000000/windows-10.png">
@@ -68,12 +68,28 @@ and aspiring to become a Full Stack Developer.</em>
 
 ---
 
-#### NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
+#### NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
-<a href="https://github.com/PuniGC">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=highcontrast" />
-<img height="180em" width="381.81" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&theme=highcontrast&layout=compact" />
-</a>
+| [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
+| :---: | :---: |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=highcontrast" /> | <img height="180" width="500"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&theme=highcontrast&layout=compact" /> |
+
+| [⚡️ Github Profile Streaks](https://github.com/DenverCoder1/github-readme-streak-stats#github-readme-streak-stats) | [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#github-profile-trophy)
+| :---: | :---: |
+| <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=PuniGC&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=DD0000&currStreakNum=DDC900&fire=DD0000&currStreakLabel=DDC900&sideLabels=00DDD6" /> | <img height="180" width="500" src="https://github-profile-trophy.vercel.app/?username=PuniGC&theme=juicyfresh&row=2&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" /> |
+
+---
+
+<div align="center">
+
+[<h4>Visitor's count 👀</h4>](https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
+<img src="https://profile-counter.glitch.me/PuniGC/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
+
+<img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave gif" height="300" width="500">
+
+![Snake animation](https://raw.githubusercontent.com/PuniGC/PuniGC/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
