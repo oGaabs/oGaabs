@@ -72,7 +72,7 @@ and aspiring to become a Full Stack Developer.</em>
 
 | [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
 | :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=highcontrast" /> | <img height="180" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&theme=highcontrast&layout=compact" /> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=highcontrast" /> | <img height="170" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&theme=highcontrast&layout=compact" /> |
 
 | [⚡️ Github Profile Streaks](https://github.com/DenverCoder1/github-readme-streak-stats#github-readme-streak-stats) | [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#github-profile-trophy)
 | :---: | :---: |
