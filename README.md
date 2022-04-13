@@ -12,7 +12,7 @@ and aspiring to become a Full Stack Developer.</em>
 
 ---
 
-* 💻 I’m currently learning **SQL, Java, JavaScript, Python and Unity.**
+* 💻 I’m currently learning **SQL, Java, JavaScript, Python and working in TCC.**
 * 💼 looking for **internship** in the RMC (Região Metropolitana de Campinas) or Home office
 * 📌 any **freelance work**? Contact me, **[email]** :)
 * 💬 **ask me about anything**, I'm happy to help or get suggestions.
