@@ -3,7 +3,8 @@
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/PuniGC?label=Follow&style=social" height="22" title="Follow me"/>][github]
 [<img alt="Mail to Gabriel" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="gabriel04.ok@gmail.com" />][email]
 [<img alt="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />][linkedin]
-[<img alt="Telegram Profile" src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />][telegram]  [<img alt="Discord Profile" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=dsc.bio/punidc" height="22" />][discord]
+[<img alt="Telegram Profile" src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />][telegram] 
+[<img alt="Discord Profile" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=dsc.bio/punidc" height="22" />][discord]
 
 ## A Student, Developer and a great lover of IT and E-sports
 
@@ -21,42 +22,25 @@ and aspiring to become a Full Stack Developer.</em>
 
 ## Programming Languages and Tools 🚀
 
-[<code>
-<img alt="unity" width="40px" src="https://img.icons8.com/ios-filled/50/000000/unity.png">
-</code>](https://unity.com/pt)
-[<code>
-<img alt="github" width="40px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="visual studio" width="40px" src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png">
-</code>](https://docs.microsoft.com/pt-br/visualstudio/windows/?view=vs-2019)
-[<code>
-<img alt="visual studio code"  width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /></code>](https://code.visualstudio.com/docs)
-[<code>
-<img alt="html5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="javascript" width="40px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="Node.js" width="40px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="java" width="40px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="python" width="40px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="csharp" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</code>](https://docs.microsoft.com/pt-br/dotnet/csharp/)
-[<code>
-<img alt="windows" width="40px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
+<div style="display: inline_block"> 
 
+  <img align="center" alt="Gab-Unity" width="40" src="https://img.icons8.com/dusk/344/unity.png">
+  <img align="center" alt="Gab-GitHub" width="40" src="https://img.icons8.com/color-glass/344/github.png">
+  <img align="center" alt="Gab-VisualStudio" width="40" src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png">
+  <img align="center" alt="Gab-VisualStudioCode" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
+  <img align="center" alt="Gab-HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Gab-CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Gab-React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Gab-Js" width="40" src="https://img.icons8.com/color/240/000000/javascript.png">
+  <img align="center" alt="Gab-Node" width="40" src="https://img.icons8.com/color/240/000000/nodejs.png">
+  <img align="center" alt="Gab-Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Gab-Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Gab-CSharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gab-AndroidStudio" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Gab-Windows" width="40" src="https://img.icons8.com/color/240/000000/windows-10.png">
+
+</div>
+  
 ## Tips and Tricks 🌎
 
  **Channel:** codeSTACKr <br>
