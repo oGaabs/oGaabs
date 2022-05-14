@@ -23,9 +23,7 @@ and aspiring to become a Full Stack Developer.</em>
 ## Programming Languages and Tools 🚀
 
 <div style="display: inline_block"> 
-
-  <img align="center" alt="Gab-Unity" width="40" src="https://img.icons8.com/dusk/344/unity.png">
-  <img align="center" alt="Gab-GitHub" width="40" src="https://img.icons8.com/color-glass/344/github.png">
+  
   <img align="center" alt="Gab-VisualStudio" width="40" src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png">
   <img align="center" alt="Gab-VisualStudioCode" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
   <img align="center" alt="Gab-HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -37,7 +35,6 @@ and aspiring to become a Full Stack Developer.</em>
   <img align="center" alt="Gab-Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Gab-CSharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gab-AndroidStudio" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Gab-Windows" width="40" src="https://img.icons8.com/color/240/000000/windows-10.png">
 
 </div>
   
