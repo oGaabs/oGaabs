@@ -2,9 +2,9 @@
 
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/PuniGC?label=Follow&style=social" height="22" title="Follow me"/>][github]
 [<img alt="Mail to Gabriel" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="gabriel04.ok@gmail.com" />][email]
-[<img alt="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />][linkedin]
-[<img alt="Telegram Profile" src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />][telegram] 
-[<img alt="Discord Profile" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=dsc.bio/punidc" height="22" />][discord]
+[<img alt="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="22" />][linkedin]
+[<img alt="Telegram Profile" src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram" height="22" />][telegram] 
+[<img alt="Discord Profile" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="22" />][discord]
 
 ## A Student, Developer and a great lover of IT and E-sports
 
@@ -13,7 +13,7 @@ and aspiring to become a Full Stack Developer.</em>
 
 ---
 
-* 💻 I’m currently learning **React, Java, JavaScript, Python and working in TCC.**
+* 💻 I’m currently learning **React, Java, JavaScript, Flutter and working in TCC.**
 * 💼 looking for **internship** in the RMC (Região Metropolitana de Campinas) or Home office
 * 📌 any **freelance work**? Contact me, **[email]** :)
 * 💬 **ask me about anything**, I'm happy to help or get suggestions.
@@ -57,18 +57,18 @@ and aspiring to become a Full Stack Developer.</em>
 
 | [⚡️ Github Profile Streaks](https://github.com/DenverCoder1/github-readme-streak-stats#github-readme-streak-stats) | [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#github-profile-trophy)
 | :---: | :---: |
-| <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=PuniGC&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=DD0000&currStreakNum=DDC900&fire=DD0000&currStreakLabel=DDC900&sideLabels=00DDD6" /> | <img height="180" width="480" src="https://github-profile-trophy.vercel.app/?username=PuniGC&theme=juicyfresh&row=2&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" /> |
+| <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=PuniGC&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=DD0000&currStreakNum=DDC900&fire=DD0000&currStreakLabel=DDC900&sideLabels=00DDD6" /> | <img height="180" width="480" src="https://github-profile-trophy.vercel.app/?username=PuniGC&theme=juicyfresh&row=2&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" /> |
 
 ---
 
 <div align="center">
 
-[<h4>Visitor's count 👀</h4>](https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
-<img src="https://profile-counter.glitch.me/PuniGC/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
+  [<h4>Visitor's count 👀</h4>](https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
+  <img src="https://profile-counter.glitch.me/PuniGC/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
 
-<img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave gif" height="300" width="500">
+  <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave gif" height="300" width="500">
 
-![Snake animation](https://raw.githubusercontent.com/PuniGC/PuniGC/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/PuniGC/PuniGC/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -76,7 +76,7 @@ and aspiring to become a Full Stack Developer.</em>
 
 [linktree]: https://linktr.ee/GabrielSant
 [github]: https://github.com/PuniGC
-[linkedin]: https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/
+[linkedin]: https://www.linkedin.com/in/gabriel-santana-silva/
 [email]: mailto:gabriel04.ok@gmail.com
 [telegram]: https://t.me/GabrielSantanaSilva
 [discord]: https://discords.com/bio/p/punidc
