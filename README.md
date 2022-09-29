@@ -14,7 +14,7 @@ and aspiring to become a Full Stack Developer.</em>
 
 ---
 
-* 💻 I’m currently learning **Design Pattern, React, Java, JavaScript, Flutter and working in TCC.**
+* 💻 I’m currently learning **Design Pattern, React, Java, JavaScript, DotNet, Flutter and working in TCC.**
 * 💼 looking for **internship** in the RMC (Região Metropolitana de Campinas) or Home office
 * 📌 any **freelance work**? Contact me, **[email]** :)
 * 💬 **ask me about anything**, I'm happy to help or get suggestions.
