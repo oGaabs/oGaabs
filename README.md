@@ -7,7 +7,11 @@
 [<img alt="Telegram Profile" src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram" height="22" />][telegram] 
 [<img alt="Discord Profile" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="22" />][discord]
 
-## A Student, Developer and a great lover of IT and E-sports
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=3000&pause=500&color=33DFF7&background=6853FF00&width=435&height=30&lines=A+Student;A+Developer;And+a+great+lover+of+IT+and+E-sports)](https://git.io/typing-svg)
+--- 
+
+
 
 <em> I’m studying the 2st year of Systems Development Technician, at Unicamp Technical High School of Campinas – COTUCA
 and aspiring to become a Full Stack Developer.</em>
