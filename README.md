@@ -8,7 +8,7 @@
 [<img alt="Discord Profile" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="22" />][discord]
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=3000&pause=500&color=33DFF7&background=6853FF00&width=435&height=30&lines=A+Student;A+Developer;And+a+great+lover+of+IT+and+E-sports)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=3000&pause=500&color=33DFF7&background=6853FF00&width=435&height=30&lines=Welcome+<3;A+Student;A+Developer;And+a+great+lover+of+IT+and+E-sports;ENJOY+:D)](https://git.io/typing-svg)
 --- 
 
 
@@ -77,7 +77,8 @@ and aspiring to become a Full Stack Developer.</em>
 
 </div>
 
----
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3334,100:320433&height=130&section=footer"/>
 
 [linktree]: https://linktr.ee/GabrielSant
 [github]: https://github.com/PuniGC
