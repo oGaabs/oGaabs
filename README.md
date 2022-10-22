@@ -24,7 +24,6 @@ and aspiring to become a Full Stack Developer.</em>
 ## Programming Languages and Tools 🚀
 
 <div style="display: inline_block; text-align:center"> 
-  
   <img alt="Gab-VisualStudio" width="40" src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png">
   <img alt="Gab-VisualStudioCode" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
   <img alt="Gab-HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
