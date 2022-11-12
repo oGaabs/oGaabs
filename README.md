@@ -4,7 +4,6 @@
 [<img alt="Mail to Gabriel" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="gabriel04.ok@gmail.com" />][email]
 [<img alt="Instagram Profile" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="22" target="_blank">][instagram]
 [<img alt="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="22" />][linkedin]
- [<img alt="Telegram Profile" src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram" height="22" />][telegram] 
 [<img alt="Discord Profile" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="22" />][discord]
 
 
