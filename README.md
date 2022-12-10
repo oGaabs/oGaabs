@@ -8,9 +8,7 @@
 
 --- 
 
-
-
-<em> I’m studying the 2st year of Systems Development Technician, at Unicamp Technical High School of Campinas – COTUCA
+<em> I’m studying the 4th semester of Systems Development Technician at Unicamp Technical High School of Campinas – COTUCA
 and aspiring to become a Full Stack Developer.</em>
 
 ---
@@ -25,19 +23,16 @@ and aspiring to become a Full Stack Developer.</em>
 ## Programming Languages and Tools 🚀
 
 <div style="display: inline_block; text-align:center"> 
-  
-  <img alt="Gab-VisualStudio" width="40" src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png">
-  <img alt="Gab-VisualStudioCode" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
-  <img alt="Gab-HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="Gab-CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img alt="Gab-React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img alt="Gab-Js" width="40" src="https://img.icons8.com/color/240/000000/javascript.png">
-  <img alt="Gab-Node" width="40" src="https://img.icons8.com/color/240/000000/nodejs.png">
-  <img alt="Gab-Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img alt="Gab-Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img alt="Gab-CSharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Gab-AndroidStudio" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-
+  <img alt="Gab-Java" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img alt="Gab-Js" align="center" width="40" src="https://img.icons8.com/color/240/000000/javascript.png">
+  <img alt="Gab-HTML" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="Gab-CSS" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="Gab-Node"  align="center" width="40" src="https://img.icons8.com/color/240/000000/nodejs.png">
+  <img alt="Gab-Python" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img alt="Gab-CSharp" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Gab-Dart" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img alt="Gab-Flutter" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img alt="Gab-React" align="center"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 </div>
  
 
@@ -47,7 +42,7 @@ and aspiring to become a Full Stack Developer.</em>
 
 | [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
 | :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=highcontrast" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&theme=highcontrast&layout=compact" /> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=highcontrast" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&theme=highcontrast&layout=compact&hide=cplus,cmake" /> |
 
 ---
 
