@@ -6,8 +6,7 @@
 
 --- 
 
-<em> I’m studying the 4th semester of Systems Development Technician at Unicamp Technical High School of Campinas – COTUCA
-and aspiring to become a Full Stack Developer.</em>
+<em> I’m studying the 4th semester of Systems Development Technician at Unicamp Technical High School of Campinas – COTUCA.</em>
 
 ---
 
