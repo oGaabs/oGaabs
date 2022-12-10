@@ -41,15 +41,7 @@ and aspiring to become a Full Stack Developer.</em>
   <img alt="Gab-AndroidStudio" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 
 </div>
-  
-## Tips and Tricks 🌎
-
- **Channel:** codeSTACKr <br>
- **Language:** English
-
-* [Web Development for Beginners][webplaylist]
-* [JavaScript][jsplaylist]
-* [CSS][cssplaylist]
+ 
 
 ---
 
@@ -69,8 +61,6 @@ and aspiring to become a Full Stack Developer.</em>
 
   [<h4>Visitor's count 👀</h4>](https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
   <img src="https://profile-counter.glitch.me/PuniGC/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
-
-  <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave gif" height="300" width="500">
 
   ![Snake animation](https://raw.githubusercontent.com/PuniGC/PuniGC/output/github-contribution-grid-snake.svg)
 
