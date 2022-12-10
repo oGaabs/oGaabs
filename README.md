@@ -1,6 +1,5 @@
-### Hi there, I'm Gabriel Santana - aka [Puni][linktree] 👋
+### Hi, I'm Gabriel Santana - aka [Puni][linktree] 👋
 
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/PuniGC?label=Follow&style=social" height="22" title="Follow me"/>][github]
 [<img alt="Mail to Gabriel" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="gabriel04.ok@gmail.com" />][email]
 [<img alt="Instagram Profile" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="22" target="_blank">][instagram]
 [<img alt="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="22" />][linkedin]
@@ -12,7 +11,7 @@ and aspiring to become a Full Stack Developer.</em>
 
 ---
 
-* 💻 I’m currently learning **Design Pattern, React, Java, JavaScript, DotNet, Flutter and working in TCC.**
+* 💻 I’m currently learning **Design Pattern, React, Java, DotNet, Flutter and working in TCC.**
 * 💼 looking for **internship** in the RMC (Região Metropolitana de Campinas) or Home office
 * 📌 any **freelance work**? Contact me, **[email]** :)
 * 💬 **ask me about anything**, I'm happy to help or get suggestions.
