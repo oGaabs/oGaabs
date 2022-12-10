@@ -49,10 +49,6 @@ and aspiring to become a Full Stack Developer.</em>
 | :---: | :---: |
 | <img height="180" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=highcontrast" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&theme=highcontrast&layout=compact" /> |
 
-| [⚡️ Github Profile Streaks](https://github.com/DenverCoder1/github-readme-streak-stats#github-readme-streak-stats) | [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#github-profile-trophy)
-| :---: | :---: |
-| <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=PuniGC&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=DD0000&currStreakNum=DDC900&fire=DD0000&currStreakLabel=DDC900&sideLabels=00DDD6" /> | <img height="180" width="480" src="https://github-profile-trophy.vercel.app/?username=PuniGC&theme=juicyfresh&row=2&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" /> |
-
 ---
 
 <div align="center">
@@ -63,8 +59,6 @@ and aspiring to become a Full Stack Developer.</em>
   ![Snake animation](https://raw.githubusercontent.com/PuniGC/PuniGC/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3334,100:320433&height=130&section=footer"/>
 
 [linktree]: https://linktr.ee/GabrielSant
 [github]: https://github.com/PuniGC
