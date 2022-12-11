@@ -32,14 +32,13 @@
   <img alt="Gab-React" align="center"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 </div>
  
-
 ---
 
 #### NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 | [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
 | :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=highcontrast" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&theme=highcontrast&layout=compact&hide=cplus,cmake" /> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=highcontrast" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&theme=highcontrast&layout=compact&hide=cplus,cmake&langs_count=6" /> |
 
 ---
 
