@@ -18,7 +18,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 </div> 
 
 <h2 align="center">
-👀 Welcome to my profile
+- Welcome to my profile -
 </h2> 
 
 <div align="center">
