@@ -29,7 +29,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 - <a href="https://github.com/GiovannaBrilhante/Dreams-come-true" target="_blank">Dreams Come True</a> - Website in React to find restaurants inspired by movies with API (DotNet C#), login with Token(JWT) and CRUD with users, restaurants and movies.
 - <a href="https://github.com/punigc/Dio-DesignPattern-Padroes_Java" target="_blank">Potencia Tech powered by iFood - Dio</a> - Project challenge held at bootcamp about SpringBoot, Java, OOP, Design Patterns and RESTful API.
 - <a href="https://github.com/PuniGC/LabirintoSolver_Java" target="_blank">LabyrinthSolver</a> - Terminal in Java that solves mazes created in txt, using data structure (Queue, Stack and Matrix).
-- <a href="https://github.com/PuniGC/PFSergio-ListaDeEspera_Flutter" target="_blank">QRCodeListaDeEspera</a> - Application that reads a qrcode from an API made by Professor Sergio from Unicamp Technical High School of Campinas – COTUCA, responds to a CRUD administrative interface of a waiting list of people, with name, entry date and position.
+- <a href="https://github.com/PuniGC/PFSergio-ListaDeEspera_Flutter" target="_blank">QRCodeListaDeEspera</a> - Flutter application that reads a qrcode from an API made by Professor Sergio from Unicamp Technical High School of Campinas – COTUCA, responds to a CRUD administrative interface of a waiting list of people, with name, entry date and position.
 - <a href="https://github.com/PuniGC/PuniBot" target="_blank">PuniBot</a> - Bot for Discord servers, based on Discord.js API, being a moderation and entertainment bot, with dashboard and several commands.
 
 ---
