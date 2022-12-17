@@ -1,9 +1,6 @@
 <h3 align="center">
-Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank" rel="noreferrer">@GabrielSantana</a> 🌟
+Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank" rel="noreferrer">@GabrielSantana</a> 🌟 
 </h3>
-<h3 align="center">
-  Welcome 🎟
-</h3> 
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank"> 
@@ -20,11 +17,15 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
   </a>
 </div> 
 
---- 
+<h2 align="center">
+👀 Welcome to my profile
+</h2> 
 
+<div align="center">
 <em> I’m studying the 4th semester of Systems Development Technician at Unicamp Technical High School of Campinas – COTUCA.</em>
+</div> 
 
---- 
+---
 
 ### Main projects
 
