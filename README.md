@@ -35,7 +35,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 ---
 
 * 💻 I’m currently learning **Design Pattern, React, Java, DotNet, Flutter and working in TCC.**
-* 💼 looking for **internship** in the RMC (Região Metropolitana de Campinas) or Home office
+* 💼 looking for **internship** in the Campinas-SP, RMC (Região Metropolitana de Campinas) or Home office
 * 📌 any **freelance work**? Contact me, **[email]** :)
 * 💬 **ask me about anything**, I'm happy to help or get suggestions.
 
