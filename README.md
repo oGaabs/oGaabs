@@ -1,12 +1,36 @@
-### Hi, I'm Gabriel Santana - aka [Puni][linktree] 👋
+<h3 align="center">
+Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank" rel="noreferrer">@GabrielSantana</a> 🌟
+</h3>
 
-[<img alt="Mail to Gabriel" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="gabriel04.ok@gmail.com" />][email]
-[<img alt="Instagram Profile" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="22" target="_blank">][instagram]
-[<img alt="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="22" />][linkedin]
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank"> 
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="22" target="_blank">
+  </a>
+  <a href = "mailto:gabriel04.ok@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="22"  target="_blank">
+  </a>
+  <a href="https://www.instagram.com/gabrielsants_dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="22" target="_blank">
+  </a>
+  <a href = "https://github.com/AtomoonDev/TCC-Atomoon" target="_blank">
+    <img src="https://user-images.githubusercontent.com/53992405/208225905-d2efbd97-e931-4753-8e2f-fb917a4bb7fa.png" height="22" target="_blank"/>
+  </a>
+</div> 
 
 --- 
 
 <em> I’m studying the 4th semester of Systems Development Technician at Unicamp Technical High School of Campinas – COTUCA.</em>
+
+--- 
+
+### Main projects
+
+- <a href="https://github.com/AtomoonDev/TCC-Atomoon" target="_blank">Atomoon</a> - Flutter application to facilitate the connection between professionals/self-employed and their clients.
+- <a href="https://github.com/GiovannaBrilhante/Dreams-come-true" target="_blank">Dreams Come True</a> - Website in React to find restaurants inspired by movies with API (DotNet C#), login with Token(JWT) and CRUD with users, restaurants and movies.
+- <a href="https://github.com/punigc/Dio-DesignPattern-Padroes_Java" target="_blank">Potencia Tech powered by iFood - Dio</a> - Project challenge held at bootcamp about SpringBoot, Java, OOP, Design Patterns and RESTful API.
+- <a href="https://github.com/PuniGC/LabirintoSolver_Java" target="_blank">LabirinthSolver</a> - Terminal in Java that solves mazes created in txt, using data structure (Queue, Stack and Matrix).
+- <a href="https://github.com/PuniGC/PFSergio-ListaDeEspera_Flutter" target="_blank">QRCodeListaDeEspera</a> - Application that reads a qrcode from an API made by Professor Sergio from Unicamp Technical High School of Campinas – COTUCA, responds to a CRUD administrative interface of a waiting list of people, with name, entry date and position.
+- <a href="https://github.com/PuniGC/PuniBot" target="_blank">PuniBot</a> - Bot for Discord servers, based on Discord.js API, being a moderation and entertainment bot, with dashboard and several commands.
 
 ---
 
@@ -34,7 +58,7 @@
  
 ---
 
-#### NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+#### NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i have the most code on github.
 
 | [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
 | :---: | :---: |
