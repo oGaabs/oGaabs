@@ -30,6 +30,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 ### Main projects
 
 - <a href="https://github.com/AtomoonDev/TCC-Atomoon" target="_blank">Atomoon (TCC and Finalist Project at the 10th 3M Science and Technology Exhibition)</a> - Flutter application to facilitate the connection between professionals/self-employed and their clients.
+- <a href="https://portfolio-gabriels.vercel.app/" target="_blank">Portfolio</a> -  My online portfolio in vercel.
 - <a href="https://github.com/GiovannaBrilhante/Dreams-come-true" target="_blank">Dreams Come True</a> - Website in React to find restaurants inspired by movies with API (DotNet C#), login with Token(JWT) and CRUD with users, restaurants and movies.
 - <a href="https://github.com/punigc/Dio-DesignPattern-Padroes_Java" target="_blank">Potencia Tech powered by iFood - Dio (Bootcamp)</a> - Project challenge held at bootcamp about SpringBoot, Java, OOP, Design Patterns and RESTful API.
 - <a href="https://github.com/PuniGC/LabirintoSolver_Java" target="_blank">LabyrinthSolver</a> - Terminal in Java that solves labyrinths created in txt, using data structure (Queue, Stack and Matrix).
