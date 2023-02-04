@@ -36,6 +36,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 - <a href="https://github.com/PuniGC/LabirintoSolver_Java" target="_blank">LabyrinthSolver</a> - Terminal in Java that solves labyrinths created in txt, using data structure (Queue, Stack and Matrix).
 - <a href="https://github.com/PuniGC/PFSergio-ListaDeEspera_Flutter" target="_blank">QRCodeListaDeEspera</a> - Flutter application that reads a qrcode from an API made by Professor Sergio from Unicamp Technical High School of Campinas – COTUCA, responds to a CRUD administrative interface of a waiting list of people, with name, entry date and position.
 - <a href="https://github.com/PuniGC/PuniBot" target="_blank">PuniBot</a> - Bot for Discord servers, based on Discord.js API, being a moderation and entertainment bot, with dashboard and several commands.
+- <a href="https://github.com/PuniGC/PuniMusic" target="_blank">PuniMusic</a> - Music Bot for Discord servers, based on Discord.js API, with a complete music control panel, information, filters and much more!
 
 ---
 
