@@ -3,6 +3,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 </h3>
 
 <div align="center"> 
+  <h4>📫 How to reach me ...</h4>
   <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank"> 
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="22" target="_blank">
   </a>
@@ -40,7 +41,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 
 ---
 
-* 💻 I’m currently learning **Design Pattern, React, Java, DotNet, Flutter and working in TCC.**
+* 💻 I’m currently learning **Clean Arch, React, Java, Flutter and working in Atomoon project.**
 * 💼 looking for **internship** in the Campinas-SP, RMC (Região Metropolitana de Campinas) or Home office
 * 📌 any **freelance work**? Contact me, **[email]** :)
 * 💬 **ask me about anything**, I'm happy to help or get suggestions.
@@ -88,6 +89,3 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 [email]: mailto:gabriel04.ok@gmail.com
 [telegram-todo]: https://t.me/GabrielSantanaSilva
 [discord]: https://discords.com/bio/p/punidc
-[webplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
