@@ -10,7 +10,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
   <a href = "mailto:gabriel04.ok@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="22"  target="_blank">
   </a>
-  <a href="https://www.instagram.com/oGaabs_/" target="_blank">
+  <a href="https://www.instagram.com/oGaabs__/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="22" target="_blank">
   </a>
   <a href = "https://github.com/AtomoonDev/TCC-Atomoon" target="_blank">
@@ -85,7 +85,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 [linktree]: https://linktr.ee/GabrielSant
 [github]: https://github.com/oGaabs
 [linkedin]: https://www.linkedin.com/in/gabriel-santana-silva/
-[instagram]: https://www.instagram.com/oGaabs_/
+[instagram]: https://www.instagram.com/oGaabs__/
 [email]: mailto:gabriel04.ok@gmail.com
 [telegram-todo]: https://t.me/GabrielSantanaSilva
 [discord]: https://discords.com/bio/p/punidc
