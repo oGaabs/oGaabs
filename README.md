@@ -10,7 +10,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
   <a href = "mailto:gabriel04.ok@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="22"  target="_blank">
   </a>
-  <a href="https://www.instagram.com/gabrielsants_dev/" target="_blank">
+  <a href="https://www.instagram.com/oGaabs_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="22" target="_blank">
   </a>
   <a href = "https://github.com/AtomoonDev/TCC-Atomoon" target="_blank">
@@ -33,11 +33,11 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 - <a href="https://github.com/AtomoonDev/TCC-Atomoon" target="_blank">Atomoon (TCC and Finalist Project at the 10th 3M Science and Technology Exhibition)</a> - Flutter application to facilitate the connection between professionals/self-employed and their clients. with @mariaxuxu & @taylorburgues
 - <a href="https://gabriels-dev.vercel.app/" target="_blank">Portfolio</a> -  My online portfolio in vercel.
 - <a href="https://github.com/GiovannaBrilhante/Dreams-come-true" target="_blank">Dreams Come True</a> - Website in React to find restaurants inspired by movies with API (DotNet C#), login with Token(JWT) and CRUD with users, restaurants and movies. with @GiovannaBrilhante
-- <a href="https://github.com/punigc/Dio-DesignPattern-Padroes_Java" target="_blank">Potencia Tech powered by iFood - Dio (Bootcamp)</a> - Project challenge held at bootcamp about SpringBoot, Java, OOP, Design Patterns and RESTful API.
-- <a href="https://github.com/PuniGC/LabirintoSolver_Java" target="_blank">LabyrinthSolver</a> - Terminal in Java that solves labyrinths created in txt, using data structure (Queue, Stack and Matrix).
-- <a href="https://github.com/PuniGC/ListaDeEsperaQRCode_PFSergio-Flutter" target="_blank">QRCodeListaDeEspera</a> - Flutter app that manages waiting list using qrcode, consuming API from Professor Sergio from Unicamp Technical High School of Campinas – COTUCA, responds to a CRUD administrative interface of the list with info about people. 
-- <a href="https://github.com/PuniGC/PuniBot" target="_blank">PuniBot</a> - Bot for Discord servers, based on Discord.js API, being a moderation and entertainment bot, with dashboard and several commands.
-- <a href="https://github.com/PuniGC/PuniMusic" target="_blank">PuniMusic</a> - Music Bot for Discord servers, based on Discord.js API, with a complete music control panel, information, filters and much more!
+- <a href="https://github.com/oGaabs/Dio-DesignPattern-Padroes_Java" target="_blank">Potencia Tech powered by iFood - Dio (Bootcamp)</a> - Project challenge held at bootcamp about SpringBoot, Java, OOP, Design Patterns and RESTful API.
+- <a href="https://github.com/oGaabs/LabirintoSolver_Java" target="_blank">LabyrinthSolver</a> - Terminal in Java that solves labyrinths created in txt, using data structure (Queue, Stack and Matrix).
+- <a href="https://github.com/oGaabs/ListaDeEsperaQRCode_PFSergio-Flutter" target="_blank">QRCodeListaDeEspera</a> - Flutter app that manages waiting list using qrcode, consuming API from Professor Sergio from Unicamp Technical High School of Campinas – COTUCA, responds to a CRUD administrative interface of the list with info about people. 
+- <a href="https://github.com/oGaabs/PuniBot" target="_blank">PuniBot</a> - Bot for Discord servers, based on Discord.js API, being a moderation and entertainment bot, with dashboard and several commands.
+- <a href="https://github.com/oGaabs/PuniMusic" target="_blank">PuniMusic</a> - Music Bot for Discord servers, based on Discord.js API, with a complete music control panel, information, filters and much more!
 
 ---
 
@@ -69,23 +69,23 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 
 | [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
 | :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=PuniGC&show_icons=true&theme=react&count_private=true&bg_color=0D1117" /> | <img height="180" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuniGC&layout=compact&langs_count=6&hide=cmake&theme=react&bg_color=0D1117" /> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=oGaabs&show_icons=true&theme=react&count_private=true&bg_color=0D1117" /> | <img height="180" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oGaabs&layout=compact&langs_count=6&hide=cmake&theme=react&bg_color=0D1117" /> |
 
 ---
 
 <div align="center">
 
   [<h4>Visitor's count 👀</h4>](https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
-  <img src="https://profile-counter.glitch.me/PuniGC/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
+  <img src="https://profile-counter.glitch.me/oGaabs/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
 
-  ![Snake animation](https://raw.githubusercontent.com/PuniGC/PuniGC/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/oGaabs/oGaabs/output/github-contribution-grid-snake.svg)
 
 </div>
 
 [linktree]: https://linktr.ee/GabrielSant
-[github]: https://github.com/PuniGC
+[github]: https://github.com/oGaabs
 [linkedin]: https://www.linkedin.com/in/gabriel-santana-silva/
-[instagram]: https://www.instagram.com/gabrielsants_dev/
+[instagram]: https://www.instagram.com/oGaabs_/
 [email]: mailto:gabriel04.ok@gmail.com
 [telegram-todo]: https://t.me/GabrielSantanaSilva
 [discord]: https://discords.com/bio/p/punidc
