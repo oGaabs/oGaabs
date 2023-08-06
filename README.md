@@ -41,7 +41,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 
 ---
 
-* 💻 I’m currently learning **Clean Arch, React, Java, Flutter and working in Atomoon project.**
+* 💻 I’m currently learning **React, Java, C#.**
 * 💼 looking for **internship** in the Campinas-SP, RMC (Região Metropolitana de Campinas) or Home office
 * 📌 any **freelance work**? Contact me, **[email]** :)
 * 💬 **ask me about anything**, I'm happy to help or get suggestions.
