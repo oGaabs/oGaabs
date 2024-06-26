@@ -23,7 +23,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 </h2> 
 
 <div align="center">
-<em> I’m studying the 4th semester of Systems Development Technician at Unicamp Technical High School of Campinas – COTUCA.</em>
+<em> I’m studying the 2th semester of Software Enginnering at UNASP, ex-Motorola and I'm a ex-COTUCA - Technician at Escola Técnica Superior Unicamp de Campinas in Systems Development.</em>
 </div> 
 
 ---
