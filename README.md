@@ -23,7 +23,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 </h2> 
 
 <div align="center">
-<em> I’m studying the 2th semester of Software Enginnering at UNASP, ex-Motorola and ex-COTUCA - Unicamp Technical High School of Campinas in Systems Development.</em>
+<em> I’m studying the 2th semester of Software Enginnering at UNASP, ex-Motorola and ex-COTUCA - Unicamp Technical High School of Campinas in Systems Development Technician.</em>
 </div> 
 
 ---
