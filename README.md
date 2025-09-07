@@ -5,14 +5,9 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 
 <div align="center"> 
   <h4>📫 How to reach me ...</h4>
-  <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank"> 
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="35">
-  </a>
+  <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="35"></a>
   &nbsp;&nbsp;
-  <a href="mailto:gabriel04.ok@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="35">
-  </a>
-  &nbsp;
+  <a href="mailto:gabriel04.ok@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="35"></a>&nbsp;
   <img src="https://views-counter.vercel.app/badge?pageId=oGaabs&leftColor=000000&rightColor=91f8f9&type=total&label=Viewers&style=none" height="22" alt="Views Counter">
 </div>
 
