@@ -1,15 +1,15 @@
 <h3 align="center">
-Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank" rel="noreferrer">@GabrielSantana</a> 🌟 
-</h3>
-<h3 align="center">Software Enginner | Open to Remote Opportunities 🌍</h3>
+Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank" rel="noreferrer">@GabrielSantana</a> 🌟  <img src="https://views-counter.vercel.app/badge?pageId=oGaabs&leftColor=000000&rightColor=91f8f9&type=total&label=Viewers&style=none" alt="Views Counter">
+</h3> 
+<h3 align="center">Software & Data Engineer | Open to Remote Opportunities 🌍</h3>
 
 <div align="center"> 
   <h4>📫 How to reach me ...</h4>
   <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank"> 
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="22" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30" target="_blank">
   </a>
   <a href = "mailto:gabriel04.ok@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="22"  target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30"  target="_blank">
   </a>
 </div> 
 
@@ -18,10 +18,9 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 </h2> 
 
 <p align="center">
-  <em>Software & Data Engineer | Current at FIT (Flextronics Institute of Technology) driving AI and data solutions | Former Motorola & COTUCA (Unicamp Technical High School of Campinas) in Systems Development Technician</em>
+  <em>Current at FIT (Flextronics Institute of Technology) driving AI and data solutions
+    Former Motorola & COTUCA (Unicamp Technical High School of Campinas) in Systems Development Technician</em>
 </p>
-
----
 
 ### Main projects
 
@@ -40,9 +39,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 - 🎓 Graduating in **Software Engineering** (UNASP)  
 - 💼 Specialized in **Data Engineering, FullStack, AI-driven solutions, and mobile applications**
 - 🌐 Open to **remote** opportunities abroad. Contact me, **[email]** :)
-* 💬 **ask me about anything**, I'm happy to help or get suggestions.
-
----
+- 💬 **ask me about anything**, I'm happy to help or get suggestions.
 
 ## Programming Languages and Tools 🚀
 
@@ -69,7 +66,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 <div align="center">
 
   [<h4>Visitor's count 👀</h4>](https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
-  <img src="https://profile-counter.glitch.me/oGaabs/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
+  <img src="https://profile-counter.deno.dev/oGaabs/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
 
   ![Snake animation](https://raw.githubusercontent.com/oGaabs/oGaabs/output/github-contribution-grid-snake.svg)
 
