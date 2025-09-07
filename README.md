@@ -55,9 +55,10 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 | <img alt="React" width="50" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> | <img alt="Flutter" width="50" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> |
 
 ### Backend / Cloud
-| Node.js | Google Cloud |
-|:-------:|:------------:|
-| <img alt="Node.js" width="50" height="55" src="https://img.icons8.com/color/240/000000/nodejs.png"> | <img alt="Google Cloud" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"> |
+| Node.js | Google Cloud | .NET Core |
+|:-------:|:------------:|:-------:|
+| <img alt="Node.js" width="50" height="55" src="https://img.icons8.com/color/240/000000/nodejs.png"> | <img alt="Google Cloud" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"> | <img width="50" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+
 
 ---
 
