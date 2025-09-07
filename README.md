@@ -1,17 +1,15 @@
 <h3 align="center">
 Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank" rel="noreferrer">@GabrielSantana</a> 🌟 
 </h3>
+<h3 align="center">Software Enginner | Open to Remote Opportunities 🌍</h3>
 
 <div align="center"> 
   <h4>📫 How to reach me ...</h4>
   <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank"> 
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="22" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="22" target="_blank">
   </a>
   <a href = "mailto:gabriel04.ok@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="22"  target="_blank">
-  </a>
-  <a href = "https://github.com/AtomoonDev/TCC-Atomoon" target="_blank">
-    <img src="https://user-images.githubusercontent.com/53992405/208225905-d2efbd97-e931-4753-8e2f-fb917a4bb7fa.png" height="22" target="_blank"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="22"  target="_blank">
   </a>
 </div> 
 
@@ -19,9 +17,9 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 - Welcome to my profile -
 </h2> 
 
-<div align="center">
-<em> I’m studying the 2th semester of Software Enginnering at UNASP, ex-Motorola and ex-COTUCA - Unicamp Technical High School of Campinas in Systems Development Technician.</em>
-</div> 
+<p align="center">
+  <em>Software & Data Engineer | Current at FIT (Flextronics Institute of Technology) driving AI and data solutions | Former Motorola & COTUCA (Unicamp Technical High School of Campinas) in Systems Development Technician</em>
+</p>
 
 ---
 
@@ -37,9 +35,11 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 
 ---
 
-* 💻 I’m currently learning **React, Java, C#.**
-* 💼 looking for **internship** in the Campinas-SP, RMC (Região Metropolitana de Campinas) or Home office
-* 📌 any **freelance work**? Contact me, **[email]** :)
+## About Me
+
+- 🎓 Graduating in **Software Engineering** (UNASP)  
+- 💼 Specialized in **Data Engineering, FullStack, AI-driven solutions, and mobile applications**
+- 🌐 Open to **remote** opportunities abroad. Contact me, **[email]** :)
 * 💬 **ask me about anything**, I'm happy to help or get suggestions.
 
 ---
@@ -48,20 +48,17 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 
 <div style="display: inline_block; text-align:center"> 
   <img alt="Gab-Java" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img alt="Gab-Js" align="center" width="40" src="https://img.icons8.com/color/240/000000/javascript.png">
-  <img alt="Gab-HTML" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="Gab-CSS" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img alt="Gab-Node"  align="center" width="40" src="https://img.icons8.com/color/240/000000/nodejs.png">
   <img alt="Gab-Python" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img alt="Gab-CSharp" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Gab-Dart" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img alt="Gab-Flutter" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img alt="Gab-React" align="center"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img alt="Gab-Ts" align="center" width="40" src="https://img.icons8.com/color/240/000000/typescript.png">
+  <img alt="Gab-Node"  align="center" width="40" src="https://img.icons8.com/color/240/000000/nodejs.png">
+  <img alt="Gab-CSharp" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Gab-Flutter" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
  
 ---
 
-#### NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i have the most code on github.
+#### NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i have the most code in on GitHub only.
 
 | [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
 | :---: | :---: |
@@ -82,5 +79,3 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 [github]: https://github.com/oGaabs
 [linkedin]: https://www.linkedin.com/in/gabriel-santana-silva/
 [email]: mailto:gabriel04.ok@gmail.com
-[telegram-todo]: https://t.me/GabrielSantanaSilva
-[discord]: https://discords.com/bio/p/punidc
