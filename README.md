@@ -63,10 +63,6 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 
 ---
 
-<div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/oGaabs/oGaabs/output/github-contribution-grid-snake.svg)
-</div>
-
 [linktree]: https://linktr.ee/GabrielSant
 [github]: https://github.com/oGaabs
 [linkedin]: https://www.linkedin.com/in/gabriel-santana-silva/
