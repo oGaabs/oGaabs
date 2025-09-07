@@ -18,7 +18,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 
 <p align="center">
   <em>
-    Software & Data Engineer | Current at FIT (Flextronics Institute of Technology) driving AI and data solutions | Former Motorola & COTUCA (Unicamp Technical High School of Campinas) in Systems Development Technician
+    Software & Data Engineer | Current at FIT (Flextronics Institute of Technology) driving AI and data solutions | ex-Motorola & ex-COTUCA (Unicamp Technical High School of Campinas) in Systems Development Technician
   </em>
 </p>
 
