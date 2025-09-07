@@ -64,12 +64,7 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 ---
 
 <div align="center">
-
-  [<h4>Visitor's count 👀</h4>](https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
-  <img src="https://profile-counter.deno.dev/oGaabs/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
-
   ![Snake animation](https://raw.githubusercontent.com/oGaabs/oGaabs/output/github-contribution-grid-snake.svg)
-
 </div>
 
 [linktree]: https://linktr.ee/GabrielSant
