@@ -41,18 +41,29 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 - 🌐 Open to **remote** opportunities abroad. Contact me, **[email]** :)
 - 💬 **ask me about anything**, I'm happy to help or get suggestions.
 
-## Programming Languages and Tools 🚀
+## Tech Stack 🚀
 
-<div style="display: inline_block; text-align:center"> 
-  <img alt="Gab-Java" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img alt="Gab-Python" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img alt="Gab-React" align="center"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img alt="Gab-Ts" align="center" width="40" src="https://img.icons8.com/color/240/000000/typescript.png">
-  <img alt="Gab-Node"  align="center" width="40" src="https://img.icons8.com/color/240/000000/nodejs.png">
-  <img alt="Gab-CSharp" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Gab-Flutter" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+#### Programming Languages 
+<div style="display: inline_block; text-align:center">
+  <img alt="Gab-Python" align="center" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img alt="Gab-Java" align="center" height="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img alt="Gab-Ts" align="center" height="55"src="https://img.icons8.com/color/240/000000/typescript.png">
+  <img alt="Gab-CSharp" align="center" height="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Gab-SQL" align="center" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
 </div>
- 
+
+#### Frontend
+<div style="display: inline_block; text-align:center">
+  <img alt="Gab-React" align="center"  height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img alt="Gab-Flutter" align="center" height="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> (Flutter - Mobile)
+</div>
+
+#### Backend / Server
+<div style="display: inline_block; text-align:center">
+  <img alt="Gab-Node"  align="center" height="55"  src="https://img.icons8.com/color/240/000000/nodejs.png">
+  <img alt="Gab Google Cloud" align="center" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg">
+</div>
+
 ---
 
 #### NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i have the most code in on GitHub only.
