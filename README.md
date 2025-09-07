@@ -43,26 +43,21 @@ Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" targe
 
 ## Tech Stack 🚀
 
-#### Programming Languages 
-<div style="display: inline_block; text-align:center">
-  <img alt="Gab-Python" align="center" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img alt="Gab-Java" align="center" height="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img alt="Gab-Ts" align="center" height="55"src="https://img.icons8.com/color/240/000000/typescript.png">
-  <img alt="Gab-CSharp" align="center" height="55"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Gab-SQL" align="center" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-</div>
+### Programming Languages
+| Python | Java | TypeScript | C# | SQL | AI-Driven Solutions |
+|:------:|:------:|:------:|:------:|:------:|:------:|
+| <img alt="Python" width="50" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> | <img alt="Java" width="50" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> | <img alt="TypeScript" width="50" height="55" src="https://img.icons8.com/color/240/000000/typescript.png"> | <img alt="C#" width="50" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> | <img alt="SQL" width="50" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> | <img width="50" height="55" alt="ChatGPT" src="https://github.com/user-attachments/assets/e5b54a09-52e5-4252-8e7f-61cde7fd2703" />
+ 
 
-#### Frontend
-<div style="display: inline_block; text-align:center">
-  <img alt="Gab-React" align="center"  height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img alt="Gab-Flutter" align="center" height="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> (Flutter - Mobile)
-</div>
+### Frontend
+| React | Flutter (Mobile) |
+|:-----:|:----------------:|
+| <img alt="React" width="50" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> | <img alt="Flutter" width="50" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> |
 
-#### Backend / Server
-<div style="display: inline_block; text-align:center">
-  <img alt="Gab-Node"  align="center" height="55"  src="https://img.icons8.com/color/240/000000/nodejs.png">
-  <img alt="Gab Google Cloud" align="center" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg">
-</div>
+### Backend / Server
+| Node.js | Google Cloud |
+|:-------:|:------------:|
+| <img alt="Node.js" width="50" height="55" src="https://img.icons8.com/color/240/000000/nodejs.png"> | <img alt="Google Cloud" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"> |
 
 ---
 
