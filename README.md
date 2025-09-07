@@ -1,25 +1,30 @@
 <h3 align="center">
-Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank" rel="noreferrer">@GabrielSantana</a> 🌟  <img src="https://views-counter.vercel.app/badge?pageId=oGaabs&leftColor=000000&rightColor=91f8f9&type=total&label=Viewers&style=none" alt="Views Counter">
+Hi 👋, I’m <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank" rel="noreferrer">@GabrielSantana</a> 🌟
 </h3> 
-<h3 align="center">Software & Data Engineer | Open to Remote Opportunities 🌍</h3>
+<h3 align="center">Software Engineer | Open to Remote Opportunities 🌍</h3>
 
 <div align="center"> 
   <h4>📫 How to reach me ...</h4>
   <a href="https://www.linkedin.com/in/gabriel-santana-silva" target="_blank"> 
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="35">
   </a>
-  <a href = "mailto:gabriel04.ok@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30"  target="_blank">
+  &nbsp;&nbsp;
+  <a href="mailto:gabriel04.ok@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="35">
   </a>
-</div> 
+  &nbsp;
+  <img src="https://views-counter.vercel.app/badge?pageId=oGaabs&leftColor=000000&rightColor=91f8f9&type=total&label=Viewers&style=none" height="22" alt="Views Counter">
+</div>
+
 
 <h2 align="center">
 - Welcome to my profile -
 </h2> 
 
 <p align="center">
-  <em>Current at FIT (Flextronics Institute of Technology) driving AI and data solutions
-    Former Motorola & COTUCA (Unicamp Technical High School of Campinas) in Systems Development Technician</em>
+  <em>
+    Software & Data Engineer | Current at FIT (Flextronics Institute of Technology) driving AI and data solutions | Former Motorola & COTUCA (Unicamp Technical High School of Campinas) in Systems Development Technician
+  </em>
 </p>
 
 ### Main projects
